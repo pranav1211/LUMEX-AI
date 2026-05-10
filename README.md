@@ -64,7 +64,7 @@ GitHub Repository: https://github.com/pranav1211/LUMEX-AI
 
 ---
 
-## Author
+## Authors
 
 Developed by Pranav Veeraghanta, Shreyas Sachin Kshatriya, Mitesh J Upadhya and Shrujal Srinath.
 
