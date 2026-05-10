@@ -1,24 +1,71 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Lumex AI
 
-# Run and deploy your AI Studio app
+![Lumex AI Banner](https://content.beyondmebtw.com/assets/projects/lumex/lumex.webp)
 
-This contains everything you need to run your app locally.
+## Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/18IQRcY14bvigfpx5KQZa68IYqDssSwHi
+Lumex AI is a multimodal AI platform focused on real-time environmental understanding, intelligent interaction systems, and practical AI deployment. The project explores the integration of computer vision, live AI processing, multimodal inputs, and depth-aware technologies to create responsive and context-aware AI experiences.
 
-## Run Locally
+The platform is designed with a strong focus on real-world usability, accessibility, scalability, and live AI interaction use cases rather than limiting itself to experimental demonstrations.
 
-**Prerequisites:**  Node.js
+---
 
+## Key Features
 
-1. Install dependencies:
-   `npm install`
-2. Create a `.env` file in the root directory and set the `VITE_API_KEY` to your Gemini API key:
-   ```
-   VITE_API_KEY=your_api_key_here
-   ```
-   Get your API key from: https://aistudio.google.com/app/apikey
-3. Run the app:
-   `npm run dev`
+- Real-time AI-powered environmental understanding
+- Live multimodal processing pipelines
+- Computer Vision integration
+- Depth-aware AI experimentation
+- Interactive AI response systems
+- Practical deployment-focused architecture
+- Scalable and modular development approach
+
+---
+
+## Live Platform
+
+Lumex AI also includes a live deployment environment for testing and showcasing real-time AI interaction workflows.
+
+Website: https://lumexai.live
+
+---
+
+## Industry Recognition
+
+The project gained recognition from a technology company, which sponsored an Oak-D Pro depth camera to further investigate advanced depth-based AI applications and real-world deployment possibilities using Lumex AI.
+
+This support enabled deeper experimentation into spatial awareness, intelligent environmental mapping, and next-generation AI interaction systems.
+
+---
+
+## Technologies Used
+
+- Python
+- Computer Vision
+- Artificial Intelligence
+- Machine Learning
+- Real-Time Processing Systems
+- Depth AI
+- Web Technologies
+
+---
+
+## Vision
+
+Lumex AI aims to bridge the gap between advanced AI systems and practical day-to-day applications by building intelligent systems that can understand environments, assist users, and adapt in real time.
+
+The long-term goal is to create AI systems that are not only technically capable, but also meaningful, accessible, and deployable in real-world scenarios.
+
+---
+
+## Repository
+
+GitHub Repository: https://github.com/pranav1211/LUMEX-AI
+
+---
+
+## Author
+
+Developed by Pranav Veeraghanta
+
+Blog & Portfolio: https://beyondmebtw.com
